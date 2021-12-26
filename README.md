@@ -1,7 +1,7 @@
 
-- 👋 Hi, I’m @Wambug
-- 👀 I’m interested in golang and python projects
-- 🌱 I’m currently learning golang and DataScience
+- 👋 Hi, I’m Wambugu
+- 👀 I’m interested in any projects
+- 🌱 Building projects
 - 💞️ I’m looking to collaborate on any of the projects about the languages
 
 
