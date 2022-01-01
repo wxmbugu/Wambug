@@ -1,7 +1,7 @@
 
 - 👋 Hi, I’m Wambugu
 - 🌱 Building projects
-- 💞️ I’m looking to collaborate on any projects 
+- I’m looking to collaborate on any projects 
 
 
 [![Stephen's GitHub stats](https://github-readme-stats.vercel.app/api?username=wambug)](https://github.com/wambug/github-readme-stats)
