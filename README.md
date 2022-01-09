@@ -1,6 +1,6 @@
 
 - 👋 Hi, I’m Wambugu
-- 🌱 Building projects
+
 - I’m looking to collaborate on any projects 
 
 
