@@ -18,7 +18,7 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/wambugu macharia" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="wambugu macharia" height="30" width="40" /></a>
-<a href="https://stackoverflow.com/users/wambugu macharia" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="wambugu macharia" height="30" width="40" /></a>
+<a href="https://stackoverflow.com/users/12924187/wambugu-macharia" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="wambugu macharia" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/wambugumacharia1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="wambugumacharia1" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/wxmbugu" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="wxmbugu" height="30" width="40" /></a>
 </p>
