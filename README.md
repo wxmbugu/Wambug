@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on [mpesa-sdk](https://github.com/Wambug/mpesa-sdk)
 
-- 🌱 I’m currently learning **Distributed system and Database Internals**
+- 🌱 I’m currently learning **Rust, Distributed system and Database Internals**
 
 - 📝 I regularly write articles on [https://wambugu.netlify.app/](https://wambugu.netlify.app/)
 
