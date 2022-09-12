@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=wambug" alt="wambug" /></a> </p>
 
-- 🔭 I’m currently working on [mpesa-sdk](https://github.com/Wambug/mpesa-sdk)
+- 🔭 I’m currently working on [key value database](https://github.com/Wambug/kvs)
 
 - 🌱 I’m currently learning **Rust, Distributed system and Database Internals**
 
